@@ -4,7 +4,7 @@ import java.util.List;
 public class Card {
 
 
-    List<Product> ProductList = new ArrayList<Product>();
+     private List<Product> ProductList = new ArrayList<Product>();
 
 
     //Función para añadir un producto
